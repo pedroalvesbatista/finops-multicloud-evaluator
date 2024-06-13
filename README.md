@@ -16,12 +16,12 @@ First and foremost, our approach is to think about the variances and variables n
 
 Here are some stuffs that needs to be done to accomplish our basic goals :
 
-[ ] Define which ways providers interfaces are going to be accessed 
-[ ] Define datasets formats and ways to visualize
-[ ] Define which ways calculations are getting done and presented
-[ ] Take FOCUS entries and converters to be used internally
-[ ] Define interfaces to Terraform and possibly Terraform Cloud for when creating resources 
-[ ] Research and test possible interfaces or even plugin for Internal Development Platform (IDP) like Backstage
-[ ] Make tests and integrations with tools like Infracost as well others out there
-[ ] Include possible ways of calculating estimations and costs usage in different currencies 
-[ ] Create possible ways for calculating differences in taxes and regions
+- [ ] Define which ways providers interfaces are going to be accessed 
+- [ ] Define datasets formats and ways to visualize
+- [ ] Define which ways calculations are getting done and presented
+- [ ] Take FOCUS entries and converters to be used internally
+- [ ] Define interfaces to Terraform and possibly Terraform Cloud for when creating resources 
+- [ ] Research and test possible interfaces or even plugin for Internal Development Platform (IDP) like Backstage
+- [ ] Make tests and integrations with tools like Infracost as well others out there
+- [ ] Include possible ways of calculating estimations and costs usage in different currencies 
+- [ ] Create possible ways for calculating differences in taxes and regions
